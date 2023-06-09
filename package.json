@@ -19,6 +19,6 @@
     "googleapis": "^104.0.0",
     "hashmap": "^2.4.0",
     "needle": "^3.0.0",
-    "stripe": "^9.5.0"
+    "stripe": "^12.6.0"
   }
 }
